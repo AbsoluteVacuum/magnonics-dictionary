@@ -22,9 +22,9 @@
 
 **_Backward spin wave_** is a spin wave for which the group velocity has a negative projection along the wave vector; in the collinear case, the group velocity and wave vector are antiparallel. 
 
-**_Nonreciprocal spin wave_** is a spin wave whose propagation characteristics are different for opposite directions of propagation under otherwise equivalent conditions.[^3] 
+**_Nonreciprocal spin wave_** is a spin wave whose propagation characteristics are different for opposite directions of propagation under otherwise equivalent conditions.$^3$ 
 
-> [3] Sometimes, a narrower definition is used: **_Nonreciprocal spin wave_** is a spin wave whose frequency is different for opposite propagation directions under otherwise equivalent conditions. 
+> [3] Sometimes, a narrower definition is used: **_Nonreciprocal spin wave_** is a spin wave whose **frequency** is different for opposite propagation directions under otherwise equivalent conditions. 
 
 **_Standing spin wave_** is a spin wave that forms a stationary pattern due to interference of counter-propagating waves. 
 
@@ -70,11 +70,11 @@
 
 ### 1.5 Interaction-dominated classes 
 
-**_Magnetostatic spin wave_ (MSSW)** (or **_dipolar spin wave_** ) is a spin wave whose dispersion is dominated by dipolar interactions.[^4] 
+**_Magnetostatic spin wave_ (MSSW)** (or **_dipolar spin wave_** ) is a spin wave whose dispersion is dominated by dipolar interactions.$^4$ 
 
-**_Exchange spin wave_** is a spin wave whose dispersion is dominated by exchange interactions.[^4] 
+**_Exchange spin wave_** is a spin wave whose dispersion is dominated by exchange interactions.$^4$ 
 
-**_Dipole-exchange spin wave_** is a spin wave whose dispersion is governed by both dipolar and exchange interactions, neither of which can be neglected.[^4] 
+**_Dipole-exchange spin wave_** is a spin wave whose dispersion is governed by both dipolar and exchange interactions, neither of which can be neglected.$^4$ 
 
 ### 1.6 Spatial character, localisation, confinement, and quantisation 
 
@@ -84,15 +84,15 @@
 
 **_Damon–Eshbach spin wave_** is a surface spin wave in an in-plane magnetised medium, characterised by dipolar-interaction-induced chirality and surface localisation, which are strongest for propagation with wave vector perpendicular to the equilibrium magnetisation but persist over a range of propagation angles. 
 
-**_Magnetostatic surface spin wave_** is the Damon–Eshbach spin wave in the dipolar-dominated regime.[^4] 
+**_Magnetostatic surface spin wave_** is the Damon–Eshbach spin wave in the dipolar-dominated regime.$^4$ 
 
 **_Backward-volume spin wave_** is a volume spin wave with a wave vector collinear (or nearly collinear) with the equilibrium magnetisation in an in-plane magnetised medium or waveguide; in the dipolar regime, its group velocity is opposite (or nearly opposite) to the wave vector. 
 
-**_Backward-volume magnetostatic spin wave_** is the backward-volume spin wave in the dipolar-dominated regime.[^4] 
+**_Backward-volume magnetostatic spin wave_** is the backward-volume spin wave in the dipolar-dominated regime.$^4$ 
 
 **_Forward-volume spin wave_** is a volume spin wave that propagates in the plane of an out-ofplane magnetised medium or waveguide and typically has a group velocity in the same direction as the wave vector. 
 
-**_Forward-volume magnetostatic spin wave_** is the forward-volume spin wave in the dipolar-dominated regime.[^4] 
+**_Forward-volume magnetostatic spin wave_** is the forward-volume spin wave in the dipolar-dominated regime.$^4$ 
 
 **_Spin-wave caustic_** is a narrow, high-intensity spin-wave beam or envelope that forms when anisotropic spin-wave dispersion focuses the energy flow into one or more preferred directions, typically when the group-velocity direction is stationary with respect to the wave vector. 
 
@@ -124,7 +124,7 @@
 
 **_Antiferromagnetic resonance_** is the resonant excitation of the spatially uniform (or nearly uniform) precessional modes of an antiferromagnetic medium by an oscillatory magnetic field. 
 
-**_Spin-wave resonance_** is the resonant excitation of a standing spin-wave mode, typically quantised due to confinement or magnetic nonuniformity, by an oscillatory magnetic field. 
+**_Spin-wave resonance_** is the resonant excitation of a standing spin-wave mode, typically quantised due to confinement or magnetic nonuniformity, by an oscillatory magnetic field. Most often, it refers to **perpendicular standing spin wave (PSSW)** mode in a film, quantised across the thickness of the film.  
 
 **_Schlömann mechanism of spin-wave excitation_** is the resonant generation of spin waves by a uniform or quasi-uniform high-frequency magnetic field in a medium with spatially varying magnonic properties, historically due to a nonuniform static internal magnetic field and, in a broader modern interpretation, due to nonuniformity of the magnonic index. 
 
@@ -456,7 +456,7 @@
 
 ### 4.1 Magnonic crystals and their dimensional subclasses 
 
-**_Magnonic crystal_** is a medium or structure that supports spin waves and whose magnonic characteristics arise from spatially periodic variation of its properties with a period greater than the atomic unit cell.[^5] 
+**_Magnonic crystal_** is a medium or structure that supports spin waves and whose magnonic characteristics arise from spatially periodic variation of its properties with a period greater than the atomic unit cell.$^5$ 
 
 > [5] This is proposed to replace the 2025 version of the definition: `` **_Magnonic crystal_** is a periodic medium or structure that supports spin waves and their manipulation enabled by spatially varying properties with a period greater than the atomic unit cell.''
 
@@ -552,23 +552,25 @@
 
 **_Mode number_** is an integer or set of integers that labels a mode according to its spatial structure, symmetry, or quantisation condition in a given geometry or confinement potential. 
 
-**_Lifetime_** is the characteristic time over which the amplitude, energy, or occupation of a wave, mode, or excitation decays according to a specified convention.[^6] 
+**_Lifetime_** is the characteristic time over which the amplitude, energy, or occupation of a wave, mode, or excitation decays according to a specified convention.$^6$ 
 
 **_Propagation length_** is the characteristic distance over which a propagating wave, mode, or other excitation maintains appreciable amplitude or power before decay. 
 
-**_Attenuation length_** is the characteristic distance over which the amplitude, energy, or occupation of a wave, mode, or excitation decreases according to a specified convention.[^6] 
+**_Attenuation length_** is the characteristic distance over which the amplitude, energy, or occupation of a wave, mode, or excitation decreases according to a specified convention.$^6$ 
 
 **_Coherence length_** is the characteristic distance over which a wave, mode, or other excitation maintains a well-defined phase relation. 
 
-**_Linewidth_** is the spectral width of a resonance or mode, typically measured at a specified fraction of its maximum amplitude or power, and characterising its temporal decay or damping.[^6] 
+**_Linewidth_** is the spectral width of a resonance or mode, typically measured at a specified fraction of its maximum amplitude or power, and characterising its temporal decay or damping.$^6$ 
 
 **_Full width at half maximum_** ( **_FWHM_** ) of a spectral line, resonance, or mode is the width measured between the two points where the chosen spectral response equals one half of its maximum value. 
 
-**_Radiative linewidth_** is the contribution to the linewidth of a resonance or mode that arises from radiative coupling to the environment or measurement circuit, leading to energy loss by emission or re-radiation rather than by intrinsic damping.[^6] 
+**_Radiative linewidth_** is the contribution to the linewidth of a resonance or mode that arises from radiative coupling to the environment or measurement circuit, leading to energy loss by emission or re-radiation rather than by intrinsic damping.$^6$ 
+
+> [6] Lifetime and attenuation length for amplitude and energy decay differ by a factor of 2. Linewidth and quality factor are also convention-dependent, especially with respect to angular versus cyclic frequency and amplitude versus power linewidths. 
 
 **_Inhomogeneous (line or linewidth) broadening_** is an extrinsic contribution to the linewidth of a resonance or mode that arises from spatial or ensemble variations in its local resonance conditions, such as variations in field, anisotropy, composition, thickness, strain, or other structural nonuniformities. 
 
-**_Quality factor_** is a dimensionless measure of the sharpness of a resonance, equal to the ratio of the resonance frequency to its linewidth and related to the number of oscillations occurring within the decay time.[^6] 
+**_Quality factor_** is a dimensionless measure of the sharpness of a resonance, equal to the ratio of the resonance frequency to its linewidth and related to the number of oscillations occurring within the decay time.$^6$ 
 
 **_Extinction ratio_** is the ratio of the power in the high-signal (or "on") state to that in the lowsignal (or "off") state of a device or modulation scheme, typically expressed either as a linear ratio or in decibels. 
 
@@ -580,7 +582,7 @@
 
 **_Effective Gilbert damping parameter_** is an experimentally obtained Gilbert damping parameter that combines intrinsic Gilbert damping with extrinsic contributions to relaxation, without distinguishing between them. 
 
-> [6] Lifetime and attenuation length for amplitude and energy decay differ by a factor of 2. Linewidth and quality factor are also convention-dependent, especially with respect to angular versus cyclic frequency and amplitude versus power linewidths. 
+**_Spin pinning_** is a phenomenon of reduced spin precession amplitude near the boundary of a magnetic material, associated with boundary conditions which are different from the Neumann-type boundary condition. 
 
 ### 5.3 Reciprocal space and topology basics 
 
@@ -617,6 +619,8 @@
 **_Time-resolved scanning Kerr microscopy (TRSKM)_** is a pump-probe technique that uses the magneto-optical Kerr effect (MOKE) to detect and raster image magnetisation dynamics through the time-dependent Kerr rotation or ellipticity of light reflected from a magnetic sample, typically with picosecond temporal resolution and sub-micrometre spatial resolution. 
 
 **_Time-resolved optically pumped scanning optical microscopy (TROPSOM)_** is a pump– probe technique that uses ultrafast optical pulses to detect and raster image optically excited electron, lattice, and magnetisation dynamics with sub-picosecond temporal and submicrometre spatial resolution. 
+
+**_Super-Nyquist sampling magneto-optical Kerr effect (SNS-MOKE) microscopy_** is a phase-resolved measurement of the coherent magnetisation dynamics through changes in the polarisation of light reflected from a magnetic material, using pulsed laser to capture spin-wave signal samples at a rate lower than the spin-wave frequency. 
 
 **_THz emission spectroscopy_** is a technique in which a sample excited by a femtosecond optical pulse emits terahertz radiation whose time-domain waveform is measured to infer the charge, spin, or structural dynamics that generated it. 
 

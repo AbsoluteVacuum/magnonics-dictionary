@@ -4,6 +4,8 @@
 
 Spin-wave amplitude, instantenous amplitude, magnitude.
 
+Magnetic dead layer.
+
 Spin-wave packet, uniform mode, mode hybridisation, anti-crossing (avoided crossing). 
 
 Chiral spin wave, Dzyaloshinskii-Moriya interaction, dipolar nonreciprocity. 
