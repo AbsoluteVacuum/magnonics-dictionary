@@ -4,13 +4,19 @@
 
 Spin-wave amplitude, instantenous amplitude, magnitude.
 
-Magnetic dead layer.
+Floquet magnon/spin-wave, spin-wave envelope soliton, spin-wave turbulence.
 
-Spin-wave packet, uniform mode, mode hybridisation, anti-crossing (avoided crossing). 
+Constituent mode, emergent mode.
+
+Magnonic Gires--Tournois resonator.
+
+Magnetic dead layer, magnetic texture.
+
+Spin-wave packet, uniform mode, mode hybridisation, anti-crossing (avoided crossing), self-focusing. 
 
 Chiral spin wave, Dzyaloshinskii-Moriya interaction, dipolar nonreciprocity. 
 
-Parametric instability, perpendicular pumping, auto-oscillation. 
+Parametric instability, self-modulation instability, parametric pumping, perpendicular pumping, auto-oscillation. 
 
 Magnon transport, coherent magnon transport, diffusive magnon transport, magnon-mediated current drag. 
 
